@@ -21,24 +21,7 @@ Welcome to my personal portfolio! This site showcases my work, skills, and proje
 - **JavaScript** - For dynamic interactions on the web pages.
 - **Vercel** - For hosting the website, ensuring high availability and performance.
 
-## 🚀 Setup
-
-To clone and run this application, you'll need Git and VScode installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-git clone https://github.com/MohammadShabazuddin/Personal_Portfolio.git
-
-# Go into the repository
-cd your-repository-name
-
-# Install dependencies
-npm install
-
-# Run the app
-npm run dev
-
- ## Contact
+## Contact
 
 _Connect with me through various portals :_
 
@@ -80,4 +63,23 @@ _Connect with me through various portals :_
     <td><a href="https://twitter.com/shabazuddin786" target="_blank">Twitter</a></td>
   </tr>
 </table>
+
+
+## 🚀 Setup
+
+To clone and run this application, you'll need Git and VScode installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+git clone https://github.com/MohammadShabazuddin/Personal_Portfolio.git
+
+# Go into the repository
+cd your-repository-name
+
+# Install dependencies
+npm install
+
+# Run the app
+npm run dev
+
 
